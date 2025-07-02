@@ -1,7 +1,7 @@
 
 <h2 align="left">i am optimus prime</h2>
 
-### vício em notion e DC
+### vício em tudo que é antigo e complexo. e DC
 ![](https://media.tenor.com/yFpY8naLlKkAAAAC/nezuko-kimetsu-no-yaiba.gif) 
 
 
@@ -19,6 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###pronome é minha roles
+pronome é minha roles
 
 ###
